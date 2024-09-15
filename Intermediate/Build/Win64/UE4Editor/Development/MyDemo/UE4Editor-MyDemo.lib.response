@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyDemo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\demo\MyDemo\Intermediate\Build\Win64\MyDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\demo\MyDemo\Intermediate\Build\Win64\UE4Editor\Development\MyDemo\MyDemo.cpp.obj"
+"D:\demo\MyDemo\Intermediate\Build\Win64\UE4Editor\Development\MyDemo\MyDemoGameModeBase.cpp.obj"
+"D:\demo\MyDemo\Intermediate\Build\Win64\UE4Editor\Development\MyDemo\MyDemo.init.gen.cpp.obj"
+"D:\demo\MyDemo\Intermediate\Build\Win64\UE4Editor\Development\MyDemo\MyDemoGameModeBase.gen.cpp.obj"
+"D:\demo\MyDemo\Intermediate\Build\Win64\UE4Editor\Development\MyDemo\Default.rc2.res"
+/OUT:"D:\demo\MyDemo\Intermediate\Build\Win64\UE4Editor\Development\MyDemo\UE4Editor-MyDemo.lib"

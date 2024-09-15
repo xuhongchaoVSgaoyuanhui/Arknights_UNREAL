@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\demo\\MyDemo\\Source\\MyDemo\\MyDemo.Build.cs",
+		"D:\\demo\\MyDemo\\Plugins\\SpinePlugin\\Source\\SpineEditorPlugin\\SpineEditorPlugin.Build.cs",
+		"D:\\demo\\MyDemo\\Plugins\\SpinePlugin\\Source\\SpinePlugin\\SpinePlugin.Build.cs",
+		"D:\\demo\\MyDemo\\Source\\MyDemo.Target.cs",
+		"D:\\demo\\MyDemo\\Source\\MyDemoEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
